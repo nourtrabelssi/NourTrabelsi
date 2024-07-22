@@ -60,7 +60,7 @@ Please feel free to reach out to me via my LinkedIn profile.
 
 
 ## 🌐 How to reach me:
-- Soot me an [Email](trabelsi.nour@outlook.com) 📧
+- Shoot me an [Email](trabelsi.nour@outlook.com) 📧
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/trabelsinour) 🔗
 
 ---

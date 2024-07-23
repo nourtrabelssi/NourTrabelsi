@@ -1,7 +1,7 @@
 ---
 ## 👨‍💻 About Me
 
-I am a data enthusiast with a strong foundation in finance and controlling. Currently, I work as a Corporate Costing Coordinator, but my true passion lies in data analysis. I specialize in Power BI and SQL, and I strive to transform raw data into actionable business insights to enhance operational integrity.
+I am a data enthusiast with a strong foundation in finance, business Intelligence and controlling. Currently, I work as a Corporate Costing Coordinator, but my true passion lies in data analysis. I specialize in Power BI and SQL, and I strive to transform raw data into actionable business insights to enhance operational integrity.
 
 On my GitHub, you'll find a collection of projects that I have developed, showcasing my ability to turn data into functional solutions for real-world challenges. I am committed to continuous learning and exploiting data to drive impactful decisions.
 
